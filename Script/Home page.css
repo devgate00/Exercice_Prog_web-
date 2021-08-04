@@ -1,0 +1,108 @@
+*{
+    margin 0;
+    padding 0;
+}
+body{
+    background-color: #E0FFE0;
+    margin-right: 15%;
+    width: 85%; 
+
+}
+h1{
+    height: 50px;
+    background-color: #B0FFB0;
+    text-align: center;
+    width: 100%;
+}
+.intro{
+    background-color:#B0B0FF;
+}
+P{
+    
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10;
+    margin-top: 15px;
+    margin-bottom: 15PX;
+    margin-left: 25%;
+}
+h4
+{
+    margin: 10px;
+      margin-left: 25%;
+}
+
+.menu{ 
+ float: left;
+ width: 15%;
+ background-color: #B0B0FF;
+ height: 300px;
+
+}
+.menu li {
+
+    background: #8989bb ;
+    color: #fff ;
+    margin-bottom: 1px ;
+  }
+  .menu li a {
+
+    display: block ;
+    background: #8989bb ;
+    color: #fff ;
+    text-align: center ;
+    text-decoration: none ;
+    padding: 5px 2px ;
+    margin-right: 10%;
+  }
+.menu li a:hover, #navigation li a:focus, #navigation li a:active {
+    background: #B0B0FF ;
+    text-decoration: underline ;
+  }
+footer{
+    background-color:#8080FF ;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+mark{
+   
+    background-color: white;
+    text-indent: 0px;
+    padding: 0%;
+    margin: 0%;
+
+}
+.blue{
+    color :blue;
+}
+.gris{
+    color: gray;
+
+}
+.dark{
+    color: #000;
+
+}
+.violet{
+    color: indigo;
+
+}
+.red{
+    color: red;
+}
+.css{
+    margin-right: 1000px;
+    margin: 10px;
+    font-family:Courier;
+    font-size: 10;
+    margin-left: 20PX;
+    margin-top: 15px;
+    margin-bottom: 15PX;
+    background-color: rgb(255, 255, 255);
+    max-width: 25%;
+
+}
+.html{
+    background-color: white;
+    max-width: 40%;
+}
