@@ -1,0 +1,65 @@
+# Exercice_Prog_web-
+Exercice de Programmation web : Construire une page web avec toutes les définitions du W3C, World Wide Web, 
+
+Exercice :
+-Utiliser le Notepad++ pour taper vos codes
+-Le code HTML devra impérativement être conforme au standard HTML5, et les caractères devront s’afficher correctement quelle que soit la configuration du navigateur.
+-Nous allons le rédiger le code d’une page qui devra impérativement avoir l’apparence de la page correspondante, en annexe du sujet.
+-Créez un fichier VotreNom.html que vous sauvegarderez dans un dossier TP et commencez à le remplir, avec sa déclaration de document, son en-tête et le corps du document 
+-Ajoutez Le titre de la page "Programmation web " qui doit se trouver en titre sur le navigateur 
+Partie HTML
+-Complétez votre page afin qu'elle contienne les éléments suivants :
+1-Entête de la page
+-Utilisez un balise <header> et ajoutez  à l’entête  de la page le titre de niveau 1 « Introduction à la programmation web »  
+2-Le menu latéral 
+-Dans une balise de regroupement <div> 
+	-Ajoutez un titre de niveau 1 «Sites intéressants»
+  	-Ajoutez une liste dans une balise <nav>
+-Ajoutez à la liste les liens :
+		* Wikipédia : HTML5 vers "https://fr.wikipedia.org/wiki/HTML5"
+		* Wikipédia : CSS3 vers  "https://fr.wikipedia.org/wiki/CSS3#CSS3"
+		* Validateur W3C : HTML vers "http://validator.w3.org/"
+		* Validateur W3C : CSS vers "http://validator.w3.org/"
+3-Corps de la page
+-Créez deux sections auxquelles vous rajoutez  les titres de niveau 1 «HTML» et «CSS»
+-Pour chaque section ajoutez le titre de niveau 4 « Exemple» et le texte  qui contient l’exemple 
+4-Pied de page 
+- Créez une balise <footer> et ajoutez votre nom, adresse e-mail et un lien sur le logo de l’USTHB qui pointe vers le site de l’université.
+
+
+Partie CSS
+- Créer une feuille de style CSS vierge VotreNom.css.
+- Ajouter à VotreNom.html un lien vers la feuille de style, en ajoutant dans l’en-tête HTML.
+- Nous allons remplir la feuille de style VotreNom.css de façon à l’apparence de la page en annexe.
+- Vous pouvez ajouter un nombre minimal d’attributs de type class ou id dans le corps de la page HTML 
+ Pour mettre en forme votre page, veuillez suivre les étapes données ci-dessous :
+- réinitialiser toutes les marges et tous les espaces intérieurs (utilisez le sélecteur universel * pour modifier les propriétés  margin et padding)
+- définir la couleur du fond : #E0FFE0
+- définir la hauteur des entêtes de sections : 50px
+- définir la couleur du fond des entêtes de sections :
+1-Entête
+-centrer le titre de l’entête 
+-faire en sorte qu’il occupe toute la largeur de la page
+-définir la hauteur : 50px
+- définir la couleur du fond : #B0FFB0
+2-Menu latéral
+- positionner la menu à gauche
+- définir la largeur: 15%;
+- définir la couleur du fond: #B0B0FF;
+- définir la hauteur : 300px;
+3-Corps de la page
+- définir la largeur: 85%
+-marge droite de 15%;
+-laisser une marge de 10px pour les titres de niveau 4 et les textes.
+-Pour les exemples
+-Indenter le texte, respecter les couleurs et ajouter les sauts de ligne nécessaires
+-Définir la police : Courier New, taille 10.
+-laisser une marge de 20px à gauche, 15px  en haut, 15px en bas.
+4-Pied de page
+-faire en sorte qu’il occupe toute la largeur de la page
+-définir la couleur du fond: #8080FF
+-centrer le texte.
+-laisser une marge de 50px en haut
+-utiliser la couleur noir pour les liens
+-définir la largeur de l’image : 100px
+
